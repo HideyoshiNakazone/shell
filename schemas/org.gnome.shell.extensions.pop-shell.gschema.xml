@@ -86,22 +86,22 @@
 
         <!-- Focus Shifting -->
         <key type="as" name="focus-left">
-            <default><![CDATA[['<Super>Left','<Super>KP_Left','<Super>h']]]></default>
+            <default><![CDATA[['<Super>KP_Left','<Super>h']]]></default>
             <summary>Focus left window</summary>
         </key>
 
         <key type="as" name="focus-down">
-            <default><![CDATA[['<Super>Down','<Super>KP_Down','<Super>j']]]></default>
+            <default><![CDATA[['<Super>KP_Down','<Super>j']]]></default>
             <summary>Focus down window</summary>
         </key>
 
         <key type="as" name="focus-up">
-            <default><![CDATA[['<Super>Up','<Super>KP_Up','<Super>k']]]></default>
+            <default><![CDATA[['<Super>KP_Up','<Super>k']]]></default>
             <summary>Focus up window</summary>
         </key>
 
         <key type="as" name="focus-right">
-            <default><![CDATA[['<Super>Right','<Super>KP_Right','<Super>l']]]></default>
+            <default><![CDATA[['<Super>KP_Right','<Super>l']]]></default>
             <summary>Focus right window</summary>
         </key>
 
@@ -264,12 +264,12 @@
         </key>
 
         <key type="as" name="pop-monitor-left">
-            <default><![CDATA[['<Super><Shift>Left','<Super><Shift>KP_Left','<Super><Shift>h']]]></default>
+            <default><![CDATA[['<Super><Shift>KP_Left','<Super><Shift>h']]]></default>
             <summary>Move window to the leftward monitor</summary>
         </key>
 
         <key type="as" name="pop-monitor-right">
-            <default><![CDATA[['<Super><Shift>Right','<Super><Shift>KP_Right','<Super><Shift>l']]]></default>
+            <default><![CDATA[['<Super><Shift>KP_Right','<Super><Shift>l']]]></default>
             <summary>Move window to the rightward monitor</summary>
         </key>
 
